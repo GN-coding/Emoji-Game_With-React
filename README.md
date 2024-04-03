@@ -1,4 +1,4 @@
-In this project, let's building an **Emoji Game** by using React
+In this project,  building a **Emoji Game** by using React
 
 ### Refer to the image below:
 
