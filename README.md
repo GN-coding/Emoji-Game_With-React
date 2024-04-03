@@ -1,4 +1,4 @@
-In this project, let's building an **Emoji Game** by applying the concepts we have learned till now.
+In this project, let's building an **Emoji Game** by using React
 
 ### Refer to the image below:
 
